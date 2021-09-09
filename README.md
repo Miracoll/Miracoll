@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miracoll
 - 👀 I’m interested in embedded system design and programming, web development with django
-- 🌱 I’m currently learning android app development
+- 🌱 I’m currently learning real-time operating system (RTOS)
 - 💞️ I’m looking to collaborate on embedded system project
 - 📫 How to reach me (via email: obianomiracle2020@gmail.com)
 
